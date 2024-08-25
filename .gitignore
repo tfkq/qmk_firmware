@@ -119,3 +119,13 @@ compile_commands.json
 # VIA(L) files that don't belong in QMK repo
 via*.json
 /keyboards/**/keymaps/vial/*
+
+
+# ~tfkq
+
+# 42Keebs soruce for testing
+*/42keebs/*
+
+
+
+

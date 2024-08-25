@@ -1,0 +1,14 @@
+{
+    "keyboard_name": "MYSTERIUM",
+    "manufacturer": "coseyfannitutti",
+    "maintainer": "piit79",
+    "url": "https://42keebs.eu/shop/kits/with-discrete-mcu/mysterium-ansi-iso-tkl-kit-black-white/",
+
+
+    "usb": {
+    "vid": "0x6B62",
+    "pid": "0x8769",
+    "device_ver": "0x0001",
+    "device_version": "1.5.4"
+    }
+}
